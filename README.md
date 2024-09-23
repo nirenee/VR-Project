@@ -1,5 +1,5 @@
 # VR-Project
-This is a demo of a vr project that i made in the course of virtual reality.In this demo, you are a students that is trying to make the perfect cheeseburguers.
+This is a demo of a vr project that i made in the course of virtual reality.In this demo, you are a student that is trying to make the perfect cheeseburguers.
 ## Assets
 The assets of the burguer and the kitchen were made just for the proyect by Martin Rico:https://www.behance.net/martinjrico
 
